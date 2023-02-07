@@ -1,1 +1,8 @@
-# kalimebota
+
+
+# Qurulum
+
+# Heroku
+#abdullah626
+
+
